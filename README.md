@@ -5,6 +5,6 @@
   <li> 2. Oryza Satifha	21120117130050 </li>
   <li> 3. Yudhi Kasih	21120117140030 </li>
   </ul>
-  </br>
-  <h3> Screenshoot </h3> </br>
+# Screenshoot
+<img src="2.jpg" width="10%" height="25%">
 <img src="1.jpg">
