@@ -6,5 +6,5 @@
   <li> 3. Yudhi Kasih	21120117140030 </li>
   </ul>
 # Screenshoot
-<img src="2.jpg" width="10%" height="25%">
-<img src="1.jpg">
+<p> <img src="2.jpg"> </p>
+<p> <img src="1.jpg"></p>
